@@ -4,4 +4,3 @@ tensorflow
 opencv-python
 pandas
 numpy
-os

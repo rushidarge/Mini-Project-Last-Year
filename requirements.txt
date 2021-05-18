@@ -1,7 +1,7 @@
 streamlit
 keras
 tensorflow
-cv2
+opencv-python
 pandas
 numpy
 os

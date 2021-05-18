@@ -1,6 +1,5 @@
 streamlit
 keras
-tensorflow
 opencv-python
 pandas
 numpy

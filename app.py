@@ -6,7 +6,6 @@ import numpy as np
 import keras
 import keras.layers as L
 import keras.models as M
-import tensorflow as tf
 import os
 from keras.utils import Sequence
 from keras.models import load_model

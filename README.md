@@ -14,3 +14,7 @@ learned datasets.
 
 # Deployment
 ![Model Architecture](https://github.com/rushidarge/Mini-Project-Last-Year/blob/main/Images/Deployment%20screenshot.jpeg?raw=true)
+
+
+# Deployment Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6Ribl5aAGcg/0.jpg)](http://www.youtube.com/watch?v=6Ribl5aAGcg "Handwriting Recognition AI")

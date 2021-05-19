@@ -18,3 +18,6 @@ learned datasets.
 
 # Deployment Video
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/6Ribl5aAGcg/0.jpg)](http://www.youtube.com/watch?v=6Ribl5aAGcg "Handwriting Recognition AI")
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ribl5aAGcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

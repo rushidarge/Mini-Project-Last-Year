@@ -8,3 +8,4 @@ numeric entries in forms filled up by hand (say — tax forms,receipts) and so o
 goal is to create a system which detects numbers from images based on previously
 learned datasets.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)

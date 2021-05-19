@@ -9,3 +9,8 @@ goal is to create a system which detects numbers from images based on previously
 learned datasets.
 
 ![Model Architecture](https://github.com/rushidarge/Mini-Project-Last-Year/blob/main/Images/Presentation1.jpg?raw=true)
+
+
+
+# Deployment
+![Model Architecture](https://github.com/rushidarge/Mini-Project-Last-Year/blob/main/Images/Deployment%20screenshot.jpeg?raw=true)

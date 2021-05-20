@@ -1,4 +1,5 @@
-streamlit
+stream it
+tensorflow
 keras
 opencv-python-headless
 pandas

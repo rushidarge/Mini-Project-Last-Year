@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow==2.1.0
 keras
 opencv-python-headless
 pandas
